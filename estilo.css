@@ -1,11 +1,11 @@
 table tr th, table tr td{
     border: 0.1rem solid black;
-    padding: 1rem;
+    padding: 0.5rem;
 }
 
 table {
     border-collapse: collapse;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
 }
 
 
