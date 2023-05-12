@@ -8,7 +8,13 @@ table {
     margin-bottom: 1rem;
 }
 
+form input {
+    margin-bottom: 0.5rem;
+}
 
+section{
+    height: 100vh;
+}
 
 
 
